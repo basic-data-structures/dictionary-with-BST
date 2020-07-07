@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../dictionaryBST/.idea/diccionarioBST.iml" filepath="$PROJECT_DIR$/../dictionaryBST/.idea/diccionarioBST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dictionaryBST/.idea/dictionaryBST.iml" filepath="$PROJECT_DIR$/../dictionaryBST/.idea/dictionaryBST.iml" />
     </modules>
   </component>
 </project>
