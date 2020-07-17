@@ -1,7 +1,3 @@
-//
-// Created by valentina on 4/6/20.
-//
-
 #ifndef BINARYTREESEARCHTEMPLATE_BSTNODE_H
 #define BINARYTREESEARCHTEMPLATE_BSTNODE_H
 
@@ -124,10 +120,5 @@ bool DictionaryBSTNode<Key, Value>:: onlyRightChildren() {
     return (right != 0 && left == 0);
 }
 /* ------------------------------------------------------------------------------ */
-
-
-/* ------------------------------- Private Methods ------------------------------ */
-/* ------------------------------------------------------------------------------ */
-
 
 #endif //BINARYTREESEARCHTEMPLATE_BSTNODE_H

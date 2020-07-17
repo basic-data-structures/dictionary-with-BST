@@ -1,7 +1,3 @@
-//
-// Created by valentina on 4/6/20.
-//
-
 #ifndef BINARYTREESEARCHTEMPLATE_BST_H
 #define BINARYTREESEARCHTEMPLATE_BST_H
 
